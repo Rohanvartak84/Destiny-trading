@@ -1,0 +1,298 @@
+{
+  "categories": [
+    {
+      "slug": "indoor-furniture",
+      "name": {
+        "en": "Indoor Furniture",
+        "ar": "الأثاث الداخلي"
+      },
+      "intro": {
+        "en": "Furniture for living and gathering spaces.",
+        "ar": "أثاث لمساحات المعيشة والتجمع."
+      },
+      "image": "category-indoor.webp",
+      "alt": {
+        "en": "Neutral-toned sofas in a bright living room",
+        "ar": "أرائك بألوان هادئة في غرفة معيشة مضيئة"
+      }
+    },
+    {
+      "slug": "outdoor-furniture",
+      "name": {
+        "en": "Outdoor Furniture",
+        "ar": "الأثاث الخارجي"
+      },
+      "intro": {
+        "en": "Furniture for terraces and open-air spaces.",
+        "ar": "أثاث للشرفات والمساحات المفتوحة."
+      },
+      "image": "category-outdoor.webp",
+      "alt": {
+        "en": "Outdoor lounge seating on a sunlit terrace",
+        "ar": "مقاعد جلوس خارجية على شرفة مشمسة"
+      }
+    },
+    {
+      "slug": "office-furniture",
+      "name": {
+        "en": "Office Furniture",
+        "ar": "أثاث المكاتب"
+      },
+      "intro": {
+        "en": "Furniture for practical working spaces.",
+        "ar": "أثاث لمساحات عمل عملية."
+      },
+      "image": "category-office.webp",
+      "alt": {
+        "en": "Contemporary work table and chair in an office",
+        "ar": "طاولة عمل وكرسي عصريان في مكتب"
+      }
+    },
+    {
+      "slug": "custom-furniture",
+      "name": {
+        "en": "Custom Furniture",
+        "ar": "أثاث حسب الطلب"
+      },
+      "intro": {
+        "en": "Discuss options shaped around your project.",
+        "ar": "ناقش خيارات تناسب متطلبات مشروعك."
+      },
+      "image": "category-custom.webp",
+      "alt": {
+        "en": "Contemporary furniture arranged in a designed interior",
+        "ar": "أثاث عصري ضمن مساحة داخلية مصممة"
+      }
+    }
+  ],
+  "products": [
+    {
+      "id": "SAMPLE-IND-001",
+      "slug": "indoor-lounge-seating",
+      "category": "indoor-furniture",
+      "name": {
+        "en": "Indoor Lounge Seating",
+        "ar": "جلسة داخلية"
+      },
+      "description": {
+        "en": "An illustrative lounge seating concept for indoor spaces.",
+        "ar": "تصور توضيحي لجلسة مناسبة للمساحات الداخلية."
+      },
+      "image": "category-indoor.webp",
+      "alt": {
+        "en": "Neutral-toned sofas in a bright living room",
+        "ar": "أرائك بألوان هادئة في غرفة معيشة مضيئة"
+      },
+      "specifications": []
+    },
+    {
+      "id": "SAMPLE-OUT-001",
+      "slug": "outdoor-lounge-seating",
+      "category": "outdoor-furniture",
+      "name": {
+        "en": "Outdoor Lounge Seating",
+        "ar": "جلسة خارجية"
+      },
+      "description": {
+        "en": "An illustrative lounge seating concept for outdoor spaces.",
+        "ar": "تصور توضيحي لجلسة مناسبة للمساحات الخارجية."
+      },
+      "image": "category-outdoor.webp",
+      "alt": {
+        "en": "Outdoor lounge seating on a sunlit terrace",
+        "ar": "مقاعد جلوس خارجية على شرفة مشمسة"
+      },
+      "specifications": []
+    },
+    {
+      "id": "SAMPLE-OFF-001",
+      "slug": "office-work-table",
+      "category": "office-furniture",
+      "name": {
+        "en": "Office Work Table",
+        "ar": "طاولة عمل مكتبية"
+      },
+      "description": {
+        "en": "An illustrative work table concept for office settings.",
+        "ar": "تصور توضيحي لطاولة عمل مناسبة للمكاتب."
+      },
+      "image": "category-office.webp",
+      "alt": {
+        "en": "Contemporary work table and chair in an office",
+        "ar": "طاولة عمل وكرسي عصريان في مكتب"
+      },
+      "specifications": []
+    },
+    {
+      "id": "SAMPLE-CUS-001",
+      "slug": "custom-furniture-concept",
+      "category": "custom-furniture",
+      "name": {
+        "en": "Custom Furniture Concept",
+        "ar": "تصور لأثاث حسب الطلب"
+      },
+      "description": {
+        "en": "An illustrative concept for discussing tailored furniture requirements.",
+        "ar": "تصور توضيحي لمناقشة متطلبات الأثاث المصمم حسب الطلب."
+      },
+      "image": "category-custom.webp",
+      "alt": {
+        "en": "Contemporary furniture arranged in a designed interior",
+        "ar": "أثاث عصري ضمن مساحة داخلية مصممة"
+      },
+      "specifications": []
+    },
+    {
+      "id": "SAMPLE-IND-002",
+      "slug": "sculptural-coffee-table",
+      "category": "indoor-furniture",
+      "name": {
+        "en": "Sculptural Coffee Table",
+        "ar": "طاولة قهوة بتصميم نحتي"
+      },
+      "description": {
+        "en": "An illustrative low table concept for an indoor lounge.",
+        "ar": "تصور توضيحي لطاولة منخفضة في مساحة جلوس داخلية."
+      },
+      "image": "product-indoor-coffee-table.webp",
+      "alt": {
+        "en": "Low sculptural coffee table in front of a sofa",
+        "ar": "طاولة قهوة منخفضة بتصميم نحتي أمام أريكة"
+      },
+      "specifications": []
+    },
+    {
+      "id": "SAMPLE-IND-003",
+      "slug": "upholstered-ottoman",
+      "category": "indoor-furniture",
+      "name": {
+        "en": "Upholstered Ottoman",
+        "ar": "مسند قدم منجد"
+      },
+      "description": {
+        "en": "An illustrative ottoman concept for an indoor lounge.",
+        "ar": "تصور توضيحي لمسند قدم منجد في مساحة جلوس داخلية."
+      },
+      "image": "product-indoor-ottoman.webp",
+      "alt": {
+        "en": "Upholstered ottoman beside a sofa and coffee table",
+        "ar": "مسند قدم منجد بجانب أريكة وطاولة قهوة"
+      },
+      "specifications": []
+    },
+    {
+      "id": "SAMPLE-OUT-002",
+      "slug": "outdoor-lounge-armchair",
+      "category": "outdoor-furniture",
+      "name": {
+        "en": "Outdoor Lounge Armchair",
+        "ar": "كرسي استرخاء خارجي"
+      },
+      "description": {
+        "en": "An illustrative armchair concept for an outdoor lounge.",
+        "ar": "تصور توضيحي لكرسي استرخاء في مساحة جلوس خارجية."
+      },
+      "image": "product-outdoor-armchair.webp",
+      "alt": {
+        "en": "Outdoor armchairs on a sunny terrace",
+        "ar": "كراسي استرخاء خارجية على شرفة مشمسة"
+      },
+      "specifications": []
+    },
+    {
+      "id": "SAMPLE-OUT-003",
+      "slug": "round-outdoor-table",
+      "category": "outdoor-furniture",
+      "name": {
+        "en": "Round Outdoor Table",
+        "ar": "طاولة خارجية مستديرة"
+      },
+      "description": {
+        "en": "An illustrative round table concept for a terrace setting.",
+        "ar": "تصور توضيحي لطاولة مستديرة في مساحة خارجية."
+      },
+      "image": "product-outdoor-round-table.webp",
+      "alt": {
+        "en": "Round outdoor table between lounge chairs",
+        "ar": "طاولة خارجية مستديرة بين كراسي الجلوس"
+      },
+      "specifications": []
+    },
+    {
+      "id": "SAMPLE-OFF-002",
+      "slug": "executive-office-chair",
+      "category": "office-furniture",
+      "name": {
+        "en": "Executive Office Chair",
+        "ar": "كرسي مكتب تنفيذي"
+      },
+      "description": {
+        "en": "An illustrative office chair concept for a work setting.",
+        "ar": "تصور توضيحي لكرسي مكتب في مساحة عمل."
+      },
+      "image": "product-office-chair.webp",
+      "alt": {
+        "en": "Office chair behind a large work desk",
+        "ar": "كرسي مكتب خلف طاولة عمل كبيرة"
+      },
+      "specifications": []
+    },
+    {
+      "id": "SAMPLE-OFF-003",
+      "slug": "office-guest-chair",
+      "category": "office-furniture",
+      "name": {
+        "en": "Office Guest Chair",
+        "ar": "كرسي ضيوف للمكتب"
+      },
+      "description": {
+        "en": "An illustrative guest seating concept for an office.",
+        "ar": "تصور توضيحي لمقاعد ضيوف في مكتب."
+      },
+      "image": "product-office-guest-chair.webp",
+      "alt": {
+        "en": "Two guest chairs in front of an office desk",
+        "ar": "كرسيان للضيوف أمام طاولة مكتب"
+      },
+      "specifications": []
+    },
+    {
+      "id": "SAMPLE-CUS-002",
+      "slug": "curved-lounge-chair-concept",
+      "category": "custom-furniture",
+      "name": {
+        "en": "Curved Lounge Chair Concept",
+        "ar": "تصور لكرسي استرخاء منحني"
+      },
+      "description": {
+        "en": "An illustrative curved chair concept for discussing tailored furniture.",
+        "ar": "تصور توضيحي لكرسي منحني لمناقشة الأثاث حسب الطلب."
+      },
+      "image": "product-custom-lounge-chair.webp",
+      "alt": {
+        "en": "Curved lounge chair in a warm interior",
+        "ar": "كرسي استرخاء منحني في مساحة داخلية دافئة"
+      },
+      "specifications": []
+    },
+    {
+      "id": "SAMPLE-CUS-003",
+      "slug": "low-sideboard-concept",
+      "category": "custom-furniture",
+      "name": {
+        "en": "Low Sideboard Concept",
+        "ar": "تصور لخزانة جانبية منخفضة"
+      },
+      "description": {
+        "en": "An illustrative storage concept for discussing tailored furniture.",
+        "ar": "تصور توضيحي لخزانة تخزين لمناقشة الأثاث حسب الطلب."
+      },
+      "image": "product-custom-sideboard.webp",
+      "alt": {
+        "en": "Low wooden sideboard in a furnished interior",
+        "ar": "خزانة جانبية منخفضة في مساحة داخلية مفروشة"
+      },
+      "specifications": []
+    }
+  ]
+}
